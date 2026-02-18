@@ -1,6 +1,6 @@
 # Всем привет!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DA1F2&width=435&lines=Frontend+Developer;React+Specialist;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DA1F2&width=435&lines=Fullstack+Developer;)](https://git.io/typing-svg)
 ### Обо мне
 Специализируюсь на индивидуальной Frontend-разработке, превращая искреннюю увлеченность делом в качественные веб-решения.
 
